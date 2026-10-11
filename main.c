@@ -2,7 +2,7 @@
 
 int main(void) {
     /* 課題0302: このプログラムは間違っています。修正してください */
-    doubler d;
+    double d;
     scanf("%lf", &d);
     printf("%lf",d); 
     return 0;
